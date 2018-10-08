@@ -29,4 +29,4 @@ MIT
 
 ### Travis
 
-[![Build Status](https://travis-ci.com/kris3579/05-linked-lists-FUNdamentals.svg?branch=master)](https://travis-ci.com/kris3579/05-linked-lists-FUNdamentals)
+[![Build Status](https://travis-ci.com/kris3579/10-recursion.svg?branch=master)](https://travis-ci.com/kris3579/10-recursion)
